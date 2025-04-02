@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain_openai
+langchain_ollama
+langchain_groq
+langchain_community
+openai
+groq
+ollama
+pytube
+bs4
+requests
+pandas
+numpy
+python-dotenv
+pypdf
+fake_useragent
